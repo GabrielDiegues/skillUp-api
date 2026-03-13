@@ -175,12 +175,11 @@ A API segue princípios de:
 ---
 
 ## 🛡️ Segurança
-
-✔ Senhas são hasheadas usando BCrypt
-✔ JWT com chave de 32 bytes
-✔ Token valida issuer, audience e assinatura
-✔ ClockSkew = 0 (token expira exatamente no tempo indicado)
-✔ CORS liberado somente quando necessário
+* Senhas são hasheadas usando BCrypt
+* JWT com chave de 32 bytes
+* Token valida issuer, audience e assinatura
+* ClockSkew = 0 (token expira exatamente no tempo indicado)
+* CORS liberado somente quando necessário
 
 ---
 
@@ -191,11 +190,3 @@ A API segue princípios de:
 * Versionamento mais avançado
 * Adicionar testes unitários com xUnit
 * Implementar logs estruturados
-
----
-
-## 📄 Licença
-
-Distribuído sob a licença MIT.
-Sinta-se livre para usar no seu projeto!
-
