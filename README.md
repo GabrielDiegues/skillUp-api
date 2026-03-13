@@ -1,4 +1,4 @@
-# 📘 SkillUpPlus API
+# 📘 SkillUp API
 
 A **SkillUpPlus API** é uma aplicação backend desenvolvida em **.NET 8**, projetada para dar suporte a um aplicativo educacional que oferece trilhas de aprendizado, progresso do usuário, avaliações de habilidades e recomendações inteligentes.
 
